@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/glidi1/portfolio.git/static/css/main.49404059.css",
+    "main.js": "/glidi1/portfolio.git/static/js/main.26a1b847.js",
+    "static/js/453.04ec5b8f.chunk.js": "/glidi1/portfolio.git/static/js/453.04ec5b8f.chunk.js",
+    "static/media/test1.jpeg": "/glidi1/portfolio.git/static/media/test1.5d6dddecf251bf272890.jpeg",
+    "static/media/Mee.jpg": "/glidi1/portfolio.git/static/media/Mee.7f1a0dbdf0177fbb3638.jpg",
+    "static/media/PikPng.com_abstract-design-png_666513.png": "/glidi1/portfolio.git/static/media/PikPng.com_abstract-design-png_666513.73eaff43d8ca0700df66.png",
+    "static/media/download.jpeg": "/glidi1/portfolio.git/static/media/download.f7f7d8fb02670b16bc27.jpeg",
+    "index.html": "/glidi1/portfolio.git/index.html",
+    "main.49404059.css.map": "/glidi1/portfolio.git/static/css/main.49404059.css.map",
+    "main.26a1b847.js.map": "/glidi1/portfolio.git/static/js/main.26a1b847.js.map",
+    "453.04ec5b8f.chunk.js.map": "/glidi1/portfolio.git/static/js/453.04ec5b8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49404059.css",
+    "static/js/main.26a1b847.js"
+  ]
+}
