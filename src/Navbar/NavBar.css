@@ -264,6 +264,7 @@
 .nav-me{
     
     width: 40%; 
+      margin-left: 5%;
 }
 .costum-link{
 font-size: x-large;
@@ -272,12 +273,14 @@ font-size: x-large;
 @media only screen and (max-width:500px) {
 .nav-me{
     width: 15%;
+    margin-left: 5%;
+  
 }
 
 .nav-content{
  width: 85%;   
- margin-left: 0;
- justify-content: center;
+ margin-right: 5%;
+ 
 }
 .costum-link{
 font-size:x-large;
