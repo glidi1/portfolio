@@ -39,19 +39,19 @@
     padding: 10px; 
     box-sizing: border-box;
   }
-  .dark-mode.edit-icon:hover{
+  .dark-mode .edit-icon:hover{
     color: #67fd67;
     cursor: pointer;
   }
-  .dark-mode.edit-icon1:hover{
+  .dark-mode .edit-icon1:hover{
     color: #67fd67;
     cursor: pointer;
   }
-  .edit-icon:hover{
+ .light-mode .edit-icon:hover{
     color: black;
     cursor: pointer;
   }
-  .edit-icon1:hover{
+ .light-mode .edit-icon1:hover{
     color: black;
     cursor: pointer;
   }
