@@ -13,7 +13,7 @@ import Projects from './Projec/Project.jsx';
 
 
 const router = createBrowserRouter([
-  {path : '/', element: <App /> },
+  {path : '/portfolio.git', element: <App /> },
   { path: '#me', element: <Me />, hash: 'me' },
   { path: '#about', element: <About />, hash: 'about' },
   { path: '#project', element: <Projects />, hash: 'project' },
