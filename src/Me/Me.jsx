@@ -17,10 +17,10 @@ export default function Me() {
       <div>
         <h5 className="mb-0  costum-p text-center">
         
-        Dynamic graduate developer skilled in crafting innovative, efficient and
+        Dynamic graduate developer skilled in crafting innovative, efficient 
         </h5>
         <h5 className="mb-5 costum-p text-center">
-        engaging applications.
+        and engaging applications.
         </h5>
       </div>
       <div className="d-flex justify-content-center align-items-center">

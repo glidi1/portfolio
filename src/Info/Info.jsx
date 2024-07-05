@@ -38,13 +38,13 @@ export default function Info() {
                     "https://www.facebook.com/glidi.elefsina",
                     "_blank"
                   )
-                } className="edit-icon icon-change"/>
+                } className="edit-icon icon-change ms-1"/>
         <FaInstagram onClick={() =>
                   window.open(
                     "https://www.instagram.com/gliditerziu?igsh=NmM3MzBtOGNyNWQ=",
                     "_blank"
                   )
-                } className="edit-icon icon-change"/>
+                } className="edit-icon icon-change ms-2"/>
       </div>
       <div className="">
         <h5>Elidian Terziu</h5>

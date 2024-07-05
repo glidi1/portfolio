@@ -64,8 +64,8 @@
       width: 100vh;
     }
     .edit-icon1{
-      height: 25px;
-      width: 25px;
+      height: 30px;
+      width: 30px;
       margin-left: 0%;
       
     }
@@ -90,13 +90,13 @@
   text-align: center;
   }
   .edit-icon{
-    height: 25px;
-    width: 25px;
+    height: 30px;
+    width: 30px;
   }
   .edit-icon1{
    
-    height: 25px;
-    width: 25px;
+    height: 30px;
+    width: 30px;
   }
  .dark-mode .footer-container > div {
   border-bottom: 1px white solid;
