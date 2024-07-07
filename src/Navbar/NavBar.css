@@ -16,7 +16,7 @@
     color: var(--text-color);
     transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
     max-width: 100vw;
-    overflow: hidden;
+    overflow-x: hidden;
   }
   .light-mode {
     background-color: white;
