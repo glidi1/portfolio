@@ -27,7 +27,7 @@ export default function NavBar() {
 }}></div>
         <h1 className="color">Terziu Elidian</h1>
       </div>
-      <div className="nav-content me-xl-3 me-lg-3 me-md-3 me-sm-3  ">
+      <div className="nav-content me-xl-3 me-lg-3 me-md-3   ">
         <a className="costum-link decorated-link color" href="/"
         onClick={(e) => {
           e.preventDefault();
@@ -36,7 +36,7 @@ export default function NavBar() {
         }}>
           About
         </a>
-        <div className="dropdown me-4">
+        <div className="dropdown me-2 me-md-3 me-lg-4">
           <a
             className="costum-link decorated-link color"
             href="/"

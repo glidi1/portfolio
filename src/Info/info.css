@@ -24,13 +24,13 @@
 .edit-icon{
   height: 25px;
   width: 25px;
-  color: blue;
+  color: black;
 }
 .edit-icon1{
   height: 25px;
   width: 25px;
   margin-left: 2%;
-  color: blue;
+  color: black;
 }
 
 .footer-container > div  {
@@ -47,12 +47,20 @@
     color: #67fd67;
     cursor: pointer;
   }
+  .dark-mode .edit-icon{
+    color: white;
+    cursor: pointer;
+  }
+  .dark-mode .edit-icon1{
+    color: white;
+    cursor: pointer;
+  }
  .light-mode .edit-icon:hover{
-    color: black;
+    color: blue;
     cursor: pointer;
   }
  .light-mode .edit-icon1:hover{
-    color: black;
+    color: blue;
     cursor: pointer;
   }
   @media only screen and (max-width:780px) {
@@ -61,7 +69,7 @@
       justify-content: center;align-self: center;
     }
     .big-footer{
-      width: 100vh;
+      width: 100%;
     }
     .edit-icon1{
       height: 30px;
@@ -71,14 +79,14 @@
     }
    
   .footer-container{
-    width: 100vh;
+    width: 100%;
   }
   .edit{
-    width: 100vh;
+    width: 100%;
     
   }
   .edit2{
-    width: 100vh;
+    width: 100%;
     
   }
   .footer-container{

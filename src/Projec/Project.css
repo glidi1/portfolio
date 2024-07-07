@@ -5,6 +5,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 .dark-mode .project-container{
   background-color: #191818;
@@ -141,7 +142,7 @@
 
 @media only screen and (max-width:780px){
   .project-container{
-   width: 100vh;
+   width: 100%;
     height: auto;
     display: flex;
     justify-content: center;
@@ -173,7 +174,7 @@
     animation: none;
   }
   .project-con-2{
-    width: 87vh;
+    width: 87%;
     animation: none;
     display: flex;
     flex-direction: column;
@@ -236,11 +237,11 @@
 
 @media only screen and (max-width:600px) {
   .project-container{
-    width: 100vh;
+    width: 100%;
     height: auto;
   }
     .project-con{
-    width: 100vh;
+    width: 100%;
     
   }
   .project-info{
@@ -248,7 +249,7 @@
     animation: none;
   }
   .project-con-2{
-    width: 87vh;
+    width: 87%;
     animation: none;
     display: flex;
     flex-direction: column;

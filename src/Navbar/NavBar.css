@@ -15,7 +15,8 @@
     background-color: var(--background-color);
     color: var(--text-color);
     transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
-    
+    max-width: 100vw;
+    overflow: hidden;
   }
   .light-mode {
     background-color: white;
@@ -170,6 +171,7 @@
     background-color: white;
     z-index: 1000;
     transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+    overflow-x: hidden; /* add this to hide horizontal overflow */
 }
 .dark-mode .nav-container{
   
@@ -257,14 +259,14 @@
   
 }
 .nav-container{
-  width: 100vh;
+  width: 100%;
 }
 
 
 .nav-me{
     
     width: 40%; 
-      margin-left: 5%;
+      
 }
 .costum-link{
 font-size: x-large;
@@ -283,7 +285,24 @@ font-size: x-large;
  
 }
 .costum-link{
-font-size:x-large;
+font-size:large;
+}
+@media only screen and (max-width:376px) {
+.nav-me{
+    width: 15%;
+   margin-left:0;
+   
+  
+}
+
+.nav-content{
+ width: 75%;   
+ margin-left: 10%;
+ 
+}
+.costum-link{
+font-size:medium;
 }
 
 }    
+}

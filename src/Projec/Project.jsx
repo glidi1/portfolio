@@ -45,11 +45,14 @@ export default function Projects() {
             <p className="custom-p3">
               Anime website with latest and and most popular series
             </p>
-            <h5 className="skill-box">VisualStudio</h5>
+            
             <h5 className="skill-box">Bootstrap</h5>
+            <h5 className="skill-box">HTML</h5>
             <h5 className="skill-box">React js</h5>
-            <h5 className="skill-box">JavaScript</h5>
             <h5 className="skill-box me-0">Rest Api</h5>
+            <h5 className="skill-box">JavaScript</h5>
+            <h5 className="skill-box">CSS</h5>
+            <h5 className="skill-box">VisualStudio</h5>
             <div className="d-flex ms-0 mt-2">
               <button
                 className="costum-btn mt-4 mt-md-0 mt-xl-3"
