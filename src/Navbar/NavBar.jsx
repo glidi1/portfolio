@@ -49,19 +49,7 @@ export default function NavBar() {
             Project
           </a>
           
-            <div className="dropdown-menu">
-              <a className="dropdown-item" href="/"  onClick={(e) => {
-              e.preventDefault();
-              const projectElement = document.getElementById('myanime');
-              projectElement.scrollIntoView({ behavior: 'smooth' });
-              const yOffset = projectElement.offsetTop + (projectElement.offsetHeight / 2) - (window.innerHeight / 2);
-  window.scrollTo({ top: yOffset, behavior: 'smooth' });
-
-            }}>
-                MyAnime
-              </a>
-            
-            </div>
+      
         </div>
         <a className="costum-link decorated-link color" href="/"
         onClick={(e) => {
