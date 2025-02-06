@@ -15,13 +15,12 @@ export default function Me() {
       </div>
 
       <div>
-        <h5 className="mb-0  costum-p text-center">
+        <h5 className="mb-4  costum-p text-center">
         
         Dynamic graduate developer skilled in crafting innovative, efficient 
-        </h5>
-        <h5 className="mb-5 costum-p text-center">
         and engaging applications.
         </h5>
+      
       </div>
       <div className="d-flex justify-content-center align-items-center">
         <button className="costum-btn"  onClick={(e) => {

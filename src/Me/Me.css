@@ -21,6 +21,10 @@
 .costum-p{
   font-family:Georgia, 'Times New Roman', Times, serif;
   font-size: 1.5rem;
+  margin-top: 5%;
+  overflow-wrap: anywhere;
+  justify-self: center;
+  text-align: center;
   
 }
 

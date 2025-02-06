@@ -13,14 +13,12 @@
 .light-mode .project-container{
   background-color: #e9ecef;
 }
-.image{
+.project-image{
     width: 60%;
-    
     height: 400px;
-   background-image: url('../images/test1.jpeg');
+   /* background-image: url('../images/test1.jpeg'); */
    background-repeat: no-repeat;
    background-size: cover;
- 
    object-fit: cover;
   
 }
@@ -37,6 +35,7 @@
   display: flex;
   align-items: center;
   justify-content: center; 
+  flex-direction: column;
 }
 .dark-mode .color-t{
   color: white;
@@ -140,7 +139,7 @@
 }
 
 
-@media only screen and (max-width:780px){
+@media only screen and (max-width:1080px){
   .project-container{
    width: 100%;
     height: auto;
