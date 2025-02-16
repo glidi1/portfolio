@@ -119,6 +119,7 @@
 }
 
 
+
 @keyframes fade-in {
     0% {
         scale: 0;
@@ -147,12 +148,10 @@
     justify-content: center;
     flex-direction: column;
   }
-  .image{
-    width: 60%;
-    
-    height: 250px;
-  
-}
+  .image {
+    width: 80% !important;
+    height: 400px !important;
+  }
 .project-info{
    margin-top: 5%;
    margin-bottom: 5%;
@@ -306,5 +305,9 @@
 }
 .reverse-image-par .project-info{
   order: 1;
+}
+.image {
+  width: 90% !important;
+  height: 200px !important;
 }
     }    

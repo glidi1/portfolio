@@ -28,7 +28,7 @@ export default function Projects() {
       id: 3,
       name: "Alpha Information",
       description:
-        "Alfa Information offers a wide range of real estate services in Albania, including buying, selling, and renting properties. They provide a platform for users to find commercial spaces, apartments, and land across various regions, with up-to-date listings and detailed property information. The company aims to connect people with ideal properties for both residential and commercial purposes. For more details, visit Alfa Information.",
+        "Alfa Information offers a wide range of real estate services in Albania, including buying, selling, and renting properties. They provide a platform for users to find commercial spaces, apartments, and land across various regions, with up-to-date listings and detailed property information. The company aims to connect people with ideal properties for both residential and commercial purposes.",
       paragraph:
         " Real estate solutions for buying, selling, and renting in Albania.",
       images: myImage3,

@@ -14,7 +14,7 @@ export default function Me() {
         <h1 className="text-center mt-5 mb-4 costum-title">Hey, I'm Elly</h1>
       </div>
 
-      <div>
+      <div className="me-change">
         <h5 className="mb-4  costum-p text-center">
         
         Dynamic graduate developer skilled in crafting innovative, efficient 
